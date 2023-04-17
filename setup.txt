@@ -1,0 +1,14 @@
+i express
+i nodemon
+i dotenv , create .env file
+i express-async-handler
+i bcrypt
+i jsonwebtoken
+i mongoose
+Create .gitignore file [node-modules, .env]
+Create scripts in package.json [mpm run start, npm run dev]
+Setup HTTP client [thunderclient(vscode extension), postman]
+
+//NOTE:
+Accepting data from a client (i.e POST request) requires a body parser(use middleware)
+Use errorhandling middleware to transform thrown errors from HTML format to JSON format 
